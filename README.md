@@ -13,6 +13,12 @@
 20 y/o Software Engineering student. I build things that stay up when I'm not looking, like Discord bots with real brains (FLY BRAIN duh), VPN clients, AI research projects, and the occasional Minecraft thing. Python is home base, but I'll pick up whatever the project needs.
 
 Currently running **Liminic**, my AI research brand, and building in public.
+<details>
+<summary>Collect my pages?</summary>
+![Profile](https://my-profile-card-murex.vercel.app/api/card)
+![DiscordProfile](https://my-profile-card-murex.vercel.app/api/discord?v=1791180963)
+![Stats](https://github-readme-stats.vercel.app/api?username=dtesters&show_icons=true&theme=blue_navy)
+</details>
 
 ---
 
