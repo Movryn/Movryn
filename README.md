@@ -18,7 +18,7 @@ Currently running **Liminic**, my AI research brand, and building in public.
 
 ![Profile](https://my-profile-card-murex.vercel.app/api/card)
 ![DiscordProfile](https://my-profile-card-murex.vercel.app/api/discord?v=1791180963)
-![Stats](https://github-readme-stats.vercel.app/api?username=Movryn&show_icons=true&theme=blue_navy)
+![Stats](https://github-readme-stats.vercel.app/api?username=dtesters&show_icons=true&theme=blue_navy)
 
 </details>
 
