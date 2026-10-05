@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Movryn</h1>
+  <h1>I'm Movryn</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+student;AI+agent+builder;Discord+bot+dev;Minecraft+enjoyer;Anime+watcher" alt="Typing SVG" />
   </a>
