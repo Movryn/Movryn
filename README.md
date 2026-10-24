@@ -9,9 +9,7 @@
 
 ### About me
 
-20 y/o Software Engineering student. I build things that stay up when I'm not looking, like Discord bots with real brains (FLY BRAIN duh), VPN clients, AI research projects, and the occasional Minecraft thing. Python is home base, but I'll pick up whatever the project needs.
-
-Currently running **Liminic**, my AI research brand, and building in public.
+20 y/o Software Engineering student. I build things that stay up when I'm not looking, like Discord bots with real brains (FLY BRAIN duh), VPN clients, AI research projects, and the occasional Minecraft thing. Python is home base, but I'll pick up whatever the project needs
 
 <details>
 <summary>Collect my pages?</summary>
@@ -28,7 +26,7 @@ Currently running **Liminic**, my AI research brand, and building in public.
 
 - **Alurx** : large AI agent Discord bot, ~80 tools, voice chat, memory, the works. My child, basically.
 - **WireWisp** : a better AmneziaWG client for Windows. Modern UI, split tunneling, kill switch, all the features the official client should have had.
-- **Liminic** : AI research brand and holding project. [liminic.com](https://liminic.com)
+- **Liminic** : Research brand and holding project. [liminic.com](https://liminic.com)
 
 ---
 
@@ -50,8 +48,8 @@ Currently running **Liminic**, my AI research brand, and building in public.
 | Project | What it is |
 |---|---|
 | [BetterAmneziaWG](https://github.com/Movryn/betteramnezia) | Better AmneziaWG client for Windows |
-| [WireWisp]() | A whole new Multi-VPN Client for windows with many features (private) |
-| [Alurx]() | AI agent Discord bot (private dev, ask me about it) |
+| [WireWisp] | A whole new Multi-VPN Client for windows with many features (private) |
+| [Alurx] | AI agent Discord bot (private dev, ask me about it) |
 | [SafetyAI](https://github.com/dtesters/SafetyAI) | Open-source AI automod |
 | [FeatherClient-Patch](https://github.com/dtesters/FeatherClient-Patch) | Patch for Feather Client launcher |
 
