@@ -49,9 +49,9 @@ Currently running **Liminic**, my AI research brand, and building in public.
 
 | Project | What it is |
 |---|---|
-| [WireWisp](https://github.com/Movryn/betteramnezia) | Better AmneziaWG client for Windows |
-| [MalFinder](https://github.com/Movryn) | Malware link/file scanner bot powered by VirusTotal |
-| [Alurx](https://github.com/dtesters) | AI agent Discord bot (private dev, ask me about it) |
+| [BetterAmneziaWG](https://github.com/Movryn/betteramnezia) | Better AmneziaWG client for Windows |
+| [WireWisp]() | A whole new Multi-VPN Client for windows with many features (private) |
+| [Alurx]() | AI agent Discord bot (private dev, ask me about it) |
 | [SafetyAI](https://github.com/dtesters/SafetyAI) | Open-source AI automod |
 | [FeatherClient-Patch](https://github.com/dtesters/FeatherClient-Patch) | Patch for Feather Client launcher |
 
