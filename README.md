@@ -71,7 +71,7 @@ Currently running **Liminic**, my AI research brand, and building in public.
 - **Portfolio:** [movryn.xyz](https://movryn.xyz)
 - **YouTube:** [@Movryn](https://youtube.com/@movryn)
 - **Discord:** `dtester` : my DMs are open for collabs, leave a friend req note if ur reaching out
-- **Work profile:** [dtesters](https://github.com/dtesters)
+- **Separate Account:** [dtesters](https://github.com/dtesters)
 
 ---
 
