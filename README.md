@@ -48,8 +48,8 @@
 | Project | What it is |
 |---|---|
 | [BetterAmneziaWG](https://github.com/Movryn/betteramnezia) | Better AmneziaWG client for Windows |
-| [WireWisp] | A whole new Multi-VPN Client for windows with many features (private) |
-| [Alurx] | AI agent Discord bot (private dev, ask me about it) |
+| WireWisp | A whole new Multi-VPN Client for windows with many features (private) |
+| Alurx | AI agent Discord bot (private dev, ask me about it) |
 | [SafetyAI](https://github.com/dtesters/SafetyAI) | Open-source AI automod |
 | [FeatherClient-Patch](https://github.com/dtesters/FeatherClient-Patch) | Patch for Feather Client launcher |
 
